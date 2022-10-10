@@ -1,0 +1,18 @@
+{
+  "productionMode": false,
+  "useDeprecatedV14Bootstrapping": false,
+  "eagerServerLoad": false,
+  "npmFolder": "C:\\Users\\Meixuan Lu\\Downloads\\test\\test2",
+  "node.version": "v16.17.0",
+  "node.download.root": "https://nodejs.org/dist/",
+  "generatedFolder": "C:\\Users\\Meixuan Lu\\Downloads\\test\\test2\\target\\frontend",
+  "frontendFolder": "C:\\Users\\Meixuan Lu\\Downloads\\test\\test2\\frontend",
+  "connect.javaSourceFolder": "C:\\Users\\Meixuan Lu\\Downloads\\test\\test2\\src\\main\\java",
+  "javaResourceFolder": "C:\\Users\\Meixuan Lu\\Downloads\\test\\test2\\src\\main\\resources",
+  "connect.applicationProperties": "C:\\Users\\Meixuan Lu\\Downloads\\test\\test2\\src\\main\\resources\\application.properties",
+  "connect.openApiFile": "C:\\Users\\Meixuan Lu\\Downloads\\test\\test2\\target\\generated-resources\\openapi.json",
+  "project.frontend.generated": "C:\\Users\\Meixuan Lu\\Downloads\\test\\test2\\frontend\\generated",
+  "pnpm.enable": false,
+  "require.home.node": false,
+  "build.folder": "target"
+}
